@@ -11,4 +11,4 @@ xyz() {
 
 ## main programm
 ## call a function
-xyz 123
+xyz 123 456
