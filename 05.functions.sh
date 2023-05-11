@@ -6,9 +6,12 @@ xyz() {
   echo Second Argument - $2
   echo All Arguments  - $*
   echo No of Arguments - $#
+  echo vakue of a = $a
+  b = 200
 }
 
 
 ## main programm
 ## call a function
 xyz 123 456
+echo value of b = $b
