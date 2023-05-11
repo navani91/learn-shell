@@ -6,8 +6,8 @@ xyz() {
   echo Second Argument - $2
   echo All Arguments  - $*
   echo No of Arguments - $#
-  echo vakue of a = $a
-  b = 200
+  echo value of a = $a
+  b=200
 }
 
 
