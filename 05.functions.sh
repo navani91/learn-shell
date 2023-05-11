@@ -14,4 +14,4 @@ xyz() {
 ## main programm
 ## call a function
 xyz 123 456
-echo value of b = $b
+echo value of b - $b
